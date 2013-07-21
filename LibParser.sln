@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LibParser", "LibParser\LibParser.vcproj", "{CFD1CBD8-716A-4CF9-B36C-A3914F2F3242}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LibScanner", "LibScanner\LibScanner.vcproj", "{14523F05-B47B-4498-8515-A7E54E43BD61}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CFD1CBD8-716A-4CF9-B36C-A3914F2F3242}.Debug|Win32.ActiveCfg = Debug|Win32
+		{CFD1CBD8-716A-4CF9-B36C-A3914F2F3242}.Debug|Win32.Build.0 = Debug|Win32
+		{CFD1CBD8-716A-4CF9-B36C-A3914F2F3242}.Release|Win32.ActiveCfg = Release|Win32
+		{CFD1CBD8-716A-4CF9-B36C-A3914F2F3242}.Release|Win32.Build.0 = Release|Win32
+		{14523F05-B47B-4498-8515-A7E54E43BD61}.Debug|Win32.ActiveCfg = Debug|Win32
+		{14523F05-B47B-4498-8515-A7E54E43BD61}.Debug|Win32.Build.0 = Debug|Win32
+		{14523F05-B47B-4498-8515-A7E54E43BD61}.Release|Win32.ActiveCfg = Release|Win32
+		{14523F05-B47B-4498-8515-A7E54E43BD61}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
